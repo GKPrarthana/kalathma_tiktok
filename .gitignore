@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+decoded_comments.csv
+tiktok_comments.csv
