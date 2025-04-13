@@ -54,7 +54,7 @@ Explore the data Run the Jupyter notebook in notebooks/.
 
 streamlit run src/dashboard.py
 📊 Example Insights
-Top 3 most-mentioned celebs: Kavihari Haputantri, Avishka Deshan, Miona de Silva
+Top 3 most-mentioned celebs: 
 
 Most shocked comment style: “DIVORCED???”
 
